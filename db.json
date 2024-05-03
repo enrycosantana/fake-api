@@ -1,14 +1,8 @@
 {
-  "alunos":[
-    "bruna":{
-      "id": 1,
-      "nome": "bruna",
-      "idade": 18
-    },
-    "enryco":{
-      "id": 2,
-      "nome": "enryco",
-      "idade": 17
-    },
+  [
+    { "id": 1, "image": "card1.jpg" },
+    { "id": 2, "image": "card2.jpg" },
+    { "id": 3, "image": "card3.jpg" },
+    { "id": 4, "image": "card4.jpg" }
   ]
 }
