@@ -1,11 +1,14 @@
 {
-  "posts": [
-    {
+  "alunos":[
+    "bruna":{
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "nome": "bruna",
+      "idade": 18
+    },
+    "enryco":{
+      "id": 2,
+      "nome": "enryco",
+      "idade": 17
+    },
+  ]
 }
